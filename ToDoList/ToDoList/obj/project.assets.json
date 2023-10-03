@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "D:\\Zajęcia z panem Feliskiem\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "D:\\repos\\ToDoList\\ToDoList\\ToDoList.csproj",
+      "projectPath": "D:\\Zajęcia z panem Feliskiem\\ToDoList\\ToDoList\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\szymo\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\ToDoList\\ToDoList\\obj\\",
+      "outputPath": "D:\\Zajęcia z panem Feliskiem\\ToDoList\\ToDoList\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
